@@ -1,11 +1,12 @@
-html {
+html
+{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 36px;
     line-height: 61px;
 
 }
 #wrapper {
-    width: 1138.48px;
+    width: 480px;
     margin-left: auto;
     margin-right: auto;
 }
